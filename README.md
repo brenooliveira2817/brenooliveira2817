@@ -19,7 +19,7 @@
 ##
 
 <div> 
-    <a href="https://www.linkedin.com/in/breno-oliveira-97a151240/" target="_black"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
+    <a href="https://www.linkedin.com/in/brenooliveira2817/" target="_black"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
 </div>
 
 
